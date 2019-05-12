@@ -1,0 +1,86 @@
+body {font-family: 'Playfair Display', serif;
+font-weight: bold;
+background-color: ivory;
+}
+h1, h2, h3, h4 {color: #660000;
+font-weight: bold;
+}
+header {background-image: url("../img/heaad.png");
+background-repeat: no-repeat;
+background-size: cover;
+height: 610px;
+}
+a h3 {padding-top: 10px;
+}
+
+nav {position: fixed;}
+.navbar-nav {padding-left: 75px;
+padding-top: 25px;
+}
+.nav-link {margin-left: 15px;
+}
+#phone {padding-left: 60px;
+}
+.info .btn {border-radius: 0;
+margin-top: 20px;
+}
+.info {margin-top: 150px;
+}
+#second .row {padding-top: 150px;}
+#second .col-6 p {line-height: 2;}
+#second .col-6 img {width: 100%;
+padding-left: 40px;}
+
+#second {height: 600px;}
+
+.products {background-color: whitesmoke;}
+
+.products h4 {text-align: center;
+padding-top:60px;}
+#third .row  {padding-top: 30px;}
+.row h5 {text-align: center;
+padding-top: 10px;}
+#third .col-4 img {width: 100%;
+height: 500px;}
+
+.menu {padding-top: 60px;}
+.menu h4 {text-align: center;}
+#forth .row  {padding-top: 30px;}
+#forth .col-4 {padding-left: 0;}
+#forth .col-4 img {width: 109%;
+height: 300px;}
+
+.foot {background-color: whitesmoke;
+margin-bottom: 50px;
+height: 250px;}
+.test h3, p {text-align: center;
+padding-top: 40px;
+}
+.test p {padding-left: 50px;
+padding-right: 50px;}
+input, textarea {padding: 12px;
+border-style: none;
+border-bottom: 1px solid #DCDCDC;
+margin: 10px;}
+#subject {padding-right: 240px;}
+.contact button {font-size: 17px;
+  border-radius: 0;
+  margin-top: 20px;
+}
+.end {background-color: whitesmoke;
+padding-top: 40px;}
+.end p {text-align: left;
+padding: 0;}
+.end span {font-weight: 400;}
+i {padding-right: 10px;
+font-size: 25px;}
+.icon {margin-left: 5px;}
+
+.boxes{overflow: hidden;
+}
+.boxes img{transition: 0.5s;
+  animation: all ease;
+}
+.scale{
+      transform: scale(1.2);
+}
